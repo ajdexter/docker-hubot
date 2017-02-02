@@ -24,8 +24,8 @@ WORKDIR /home/hubot/bot
 
 # optionally override variables with docker run -e HUBOT_...
 # Modify ./ENV file to override these options
-ENV HUBOT_OWNER hubot
-ENV HUBOT_NAME hubot
+ENV HUBOT_OWNER AJ
+ENV HUBOT_NAME Skip
 ENV HUBOT_ADAPTER slack
 ENV HUBOT_DESCRIPTION Just a friendly robot
 
