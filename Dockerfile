@@ -1,5 +1,5 @@
 FROM node:4.4.3-slim
-MAINTAINER Justin Garrison <justinleegarrison@gmail.com>
+MAINTAINER AJ Dexter <aj.dexter@gmail.com>
 
 # Install CoffeeScript, Hubot
 RUN \
